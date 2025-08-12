@@ -17,17 +17,7 @@
   />
 </div>
 
-<h2 align="center" style="margin-top: 40px;">
-  currently vibing on spotify 🎧
-</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh-ily&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh-ily" /> </p>
 
-<div align="center" style="margin-top: 20px;">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31z53n33odtbk6c6wwml5yn6ihey&redirect=true">
-    <img 
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31z53n33odtbk6c6wwml5yn6ihey&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false" 
-      height="130" 
-      width="500" 
-      alt="Spotify Profile"
-    />
-  </a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh-ily" alt="utkarsh-ily" /></a> </p>
 </div>
