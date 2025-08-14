@@ -1,32 +1,45 @@
-<h2 align="center">
-  hi, i'm Utkarsh. i code things, break things, and somehow make them work again 😅
-</h2>000
+<h1 align="center">
+  Hey there, I'm RealAngry! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
+
+<p align="center">
+  <em>Developer, breaker of code, and fixer of chaos — all in one package.</em>
+</p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=utkarsh-ily&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh-ily" /> </p>
 <p align="center">
-  <a href="https://discord.com/users/1010775387099365396">
-    <img src="https://lanyard.cnrad.dev/api/1010775387099365396?theme=dark&animated=true&hideDiscrim=true&borderRadius=8px" alt="Discord Presence" />
+  <a href="https://discord.com/users/1391758316039966780">
+    <img src="https://lanyard.cnrad.dev/api/1391758316039966780?theme=dark&animated=true&hideDiscrim=true&borderRadius=8px" alt="Discord Presence" />
   </a>
 </p>
-<div align="center" style="margin-top: 20px;">
-  <img 
-    src="https://github-readme-streak-stats-eight.vercel.app?user=Utkarsh-ily&theme=dark" 
-    height="150" 
-    alt="GitHub Streak Stats" 
-    style="margin: 10px;"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Utkarsh-ily&locale=en&layout=compact&card_width=320&langs_count=7&theme=dark" 
-    height="150" 
-    alt="Top Languages" 
-    style="margin: 10px;"
-  />
-</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/utkarsh_ily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utkarsh_ily" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/utkarsh_ily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarsh_ily" height="30" width="40" /></a>
+---
+
+### 🚀 My Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,tailwind,vscode,python,lua,nodejs,mongodb&perline=5" />
+  </a>
 </p>
-</div>
 
+<p align="center">
+  📚 <strong>Currently Improving:</strong> <code>TypeScript</code>, <code>JavaScript</code>, and <code>Discord Bot Development</code>
+</p>
 
+---
+
+### 🏆 My GitHub Stats & Achievements
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RealAngry&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="RealAngry's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealAngry&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+---
+
+### 🐍 My Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RealAngry/RealAngry/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
