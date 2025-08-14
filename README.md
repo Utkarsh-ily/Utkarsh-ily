@@ -6,8 +6,8 @@
   <em>Developer, breaker of code, and fixer of chaos — all in one package.</em>
 </p>
 <p align="center">
-  <a href="https://discord.com/users/1010775387099365396">
-    <img src="https://lanyard.cnrad.dev/api/1010775387099365396?theme=dark&animated=true&hideDiscrim=true&borderRadius=8px" alt="Discord Presence" />
+  <a href="https://discord.com/users/1391758316039966780">
+    <img src="https://lanyard.cnrad.dev/api/1391758316039966780?theme=dark&animated=true&hideDiscrim=true&borderRadius=8px" alt="Discord Presence" />
   </a>
 </p>
 
