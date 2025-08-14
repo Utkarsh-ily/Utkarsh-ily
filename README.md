@@ -14,22 +14,6 @@
 
 ---
 
-### 🚀 My Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,tailwind,vscode,python,lua,nodejs,mongodb&perline=5" />
-  </a>
-</p>
-
-<p align="center">
-  📚 <strong>Currently Improving:</strong> <code>TypeScript</code>, <code>JavaScript</code>, and <code>Discord Bot Development</code>
-</p>
-
----
-
-### 🏆 My GitHub Stats & Achievements
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-ily&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="RealAngry's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-ily&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Top Languages" />
@@ -37,8 +21,8 @@
 
 ---
 
-### 🐍 My Contribution Graph
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Utkarsh-ily/Utkarsh-ily/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,tailwind,vscode,python,lua,nodejs,mongodb&perline=5" />
+  </a>
 </p>
