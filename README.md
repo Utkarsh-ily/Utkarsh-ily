@@ -6,7 +6,6 @@
   <em>Developer, breaker of code, and fixer of chaos — all in one package.</em>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=utkarsh-ily&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh-ily" /> </p>
-[![Discord Presence](https://lanyard.cnrad.dev/api/1391758316039966780?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1391758316039966780)
 
 ---
 
