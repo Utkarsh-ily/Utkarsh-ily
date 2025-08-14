@@ -1,6 +1,5 @@
 <h1 align="center">
-  Hey there, I'm RealAngry! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  Hey there, I'm Utkarsh! 
 </h1>
 
 <p align="center">
@@ -32,8 +31,8 @@
 ### 🏆 My GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RealAngry&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="RealAngry's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealAngry&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-ily&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="RealAngry's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-ily&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 ---
@@ -41,5 +40,5 @@
 ### 🐍 My Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RealAngry/RealAngry/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Utkarsh-ily/Utkarsh-ily/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
