@@ -14,14 +14,14 @@
 
 ---
 
-<p align="center">
+<p align="Centre">
   <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-ily&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="RealAngry's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-ily&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 ---
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,tailwind,vscode,python,lua,nodejs,mongodb&perline=5" />
   </a>
