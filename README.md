@@ -22,4 +22,8 @@
   </a>
 </p>
 
+---
 
+<p align="center">
+  <em>Github Trophies</em>
+</p>
