@@ -27,3 +27,5 @@
 <p align="center">
   <em>Github Trophies</em>
 </p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Utkarsh-ily&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Utkarsh's GitHub Trophies" />
