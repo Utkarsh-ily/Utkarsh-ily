@@ -11,6 +11,7 @@
 
 <p align="Centre">
   <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-ily&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Utkarsh's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-ily&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Utkarsh's Top Languages" />
 
 
 ---
