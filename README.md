@@ -10,8 +10,8 @@
 ---
 
 <p align="Centre">
-  <img  alt="Utkarsh-ily's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Utkarsh-ily?cardType=level&theme=github-dark&fontFamily=&preferLogin=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-ily&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Utkarsh's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-ily&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Utkarsh's GitHub Stats" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Utkarsh-ily&theme=blueberry" alt="Utkarsh's Top Languages" />
 
 
 ---
