@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <em>Github Trophies</em>
+  <em>Graphs</em>
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Utkarsh-ily&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Utkarsh's GitHub Trophies" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utkarsh-ily&theme=blueberry" alt="Utkarsh's GitHub Trophies" />
