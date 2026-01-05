@@ -11,7 +11,7 @@
 
 <p align="Centre">
   <img  alt="Utkarsh-ily's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Utkarsh-ily?cardType=level&theme=github-dark&fontFamily=&preferLogin=true" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Utkarsh-ily&theme=blueberry" alt="Utkarsh's Top Languages" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Utkarsh-ily&theme=blueberry" alt="Utkarsh's Top Languages" />
 
 
 ---
