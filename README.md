@@ -13,7 +13,6 @@
   <img  alt="Utkarsh-ily's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Utkarsh-ily?cardType=level&theme=github-dark&fontFamily=&preferLogin=true" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Utkarsh-ily&theme=blueberry" alt="Utkarsh's Top Languages" />
 
-
 ---
 
 <p align="left">
@@ -29,3 +28,9 @@
 </p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utkarsh-ily&theme=blueberry" alt="Utkarsh's GitHub Trophies" />
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/utkarsh-ily/utkarsh-ily/output/github-contribution-grid-snake.svg" alt="Utkarsh's GitHub Contribution Snake" />
+</p>
