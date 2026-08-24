@@ -32,5 +32,9 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/utkarsh-ily/utkarsh-ily/output/github-contribution-grid-snake.svg" alt="Utkarsh's GitHub Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/utkarsh-ily/utkarsh-ily/output/github-contribution-grid-snake.svg"
+    alt="Utkarsh's GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
